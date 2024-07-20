@@ -1,0 +1,9 @@
+.nav .nav-link {
+  display: block;
+  padding: calc(0.5 * var(--root-font-size)) var(--root-font-size);
+}
+
+.nav .nav-link:hover {
+  color: var(--nav-item-link-hover);
+}
+
